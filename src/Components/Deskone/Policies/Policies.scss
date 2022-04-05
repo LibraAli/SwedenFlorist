@@ -1,0 +1,181 @@
+.parentdiv {
+  //   .sidebardiv{
+  //    .sidebarmain {
+  //      background-color: #ed6f6f;
+  //      .nmbr1{
+  //        .nmbronehead{
+  //          font-family: 'Poppins';
+  //          font-style: normal;
+  //          font-weight: 700;
+  //          font-size: 30px;
+  //          line-height: 40px;
+  //          letter-spacing: -0.011em;
+  //          color: #FFFFFF;
+  //          padding-top: 25px;
+  //        }
+  //      .nmbrone{
+  //        display: flex;
+  //        justify-content: center;
+  //        margin: 30px;
+
+  //        .nmbroneimg{
+  //          align-items: center;
+  //          margin: 5px;
+  //          width: 21px;
+  //          height: 21px;
+  //        }
+  //        .nmbroneheadpamela{
+  //          font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 700;
+  //  font-size: 20px;
+  //  line-height: 30px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+
+  //        }
+  //      }
+
+  //      }
+  //      .nmbr2{
+
+  //        background: rgba(255, 255, 255, 0.12);
+  //        .nmbrtwohead{
+  //          font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 20px;
+  //  line-height: 30px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  backdrop-filter: blur(4px);
+  //  padding: 15px;
+  //  }
+  //  }
+  //  .nmbr3{
+  //    background: rgba(255, 255, 255, 0.12);
+  //    .nmbrthgreepara{
+  //      font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 24px;
+  //  line-height: 36px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //    }
+  //  }
+  //  .nmbr4{
+  //   background: rgba(0, 0, 0, 0.23);
+  //    .nmbrfourpara{
+  //      font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 23.1689px;
+  //  line-height: 35px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //    }
+  //  }
+  //  .nmbr5{
+  //    background: rgba(255, 255, 255, 0.12);
+  //    .nmbrfivepara{
+  //      font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 23.1689px;
+  //  line-height: 35px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //    }
+  //  }
+  //  .nmbr6{
+  //    background: rgba(255, 255, 255, 0.12);
+  //  .mnbrsixpara{
+  //    font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 23.1689px;
+  //  line-height: 35px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //  }
+  //  }
+  //  .nmbr7{
+  //    background: rgba(255, 255, 255, 0.12);
+  //  .nmbrsevenpara{
+  //    font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 23.1689px;
+  //  line-height: 35px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //  }
+  //  }
+  //  .nmbr8{
+  //   padding-bottom: 70px;
+  //    .mnbreightheading{
+  //      font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 700;
+  //  font-size: 30px;
+  //  line-height: 45px;
+  //  letter-spacing: -0.02em;
+  //  color: #FFFFFF;
+  //  margin-top: 20px;
+  //  padding: 10px;
+  //    }
+  //    .eightpara{
+  //      font-family: 'Poppins';
+  //  font-style: normal;
+  //  font-weight: 400;
+  //  font-size: 24px;
+  //  line-height: 36px;
+  //  color: #FFFFFF;
+  //  padding: 15px;
+  //  background: rgba(255, 255, 255, 0.12);
+  //    }
+  //  }
+  //  }
+  //  .operation{
+  //      padding: 68px 30px 30px 40px;
+  //   .polidiv{
+  //       .poliheadi{
+  //          font-family: 'Poppins';
+  //          font-style: normal;
+  //          font-weight: 700;
+  //          font-size: 25px;
+  //          line-height: 30px;
+  //          display: flex;
+  //          align-items: center;
+  //          letter-spacing: -0.011em;
+  //          color: #040303;
+  //          transform: matrix(1, 0, -0.02, 1, 0, 0);
+  //          margin-left: 12px;
+  //       }
+  //   }
+  //   .poliparadiv{
+  //        & ::marker{
+  //           color : #ED6F6F;
+  //       }
+  //       .polipara{
+  //          font-family: 'Poppins';
+  //          font-style: normal;
+  //          font-weight: 400;
+  //          font-size: 16px;
+  //          line-height: 15px;
+  //          letter-spacing: -0.011em;
+  //          color: black;
+  //          text-align: left;
+  //          margin-top: 20px;
+  //       }
+  //   }
+  //  }
+
+  //  }
+}

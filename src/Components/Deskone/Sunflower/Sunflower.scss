@@ -1,0 +1,109 @@
+.parentdiv {
+  .sunseconddiv {
+    margin-top: 25px;
+    background: #ffffff;
+    box-shadow: 1px 13px 20px 2px rgba(0, 0, 0, 0.25);
+    .imgdiv {
+      width: 100%;
+      .vases {
+        width: 121px;
+        height: 124px;
+        object-fit: contain;
+      }
+    }
+    .sundiv {
+      & ::marker {
+        color: #ed6f6f;
+      }
+      .sunhead {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        color: #000000;
+        text-align: left;
+      }
+      .sunpara {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        color: #000000;
+        text-align: left;
+      }
+    }
+    .pricediv {
+      .pricehead {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        color: #000000;
+      }
+      .poricecode {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        color: #000000;
+      }
+    }
+    .qtydiv {
+      background: #c4c4c4;
+      border-radius: 10px;
+      width: 87px;
+      height: 43px;
+      // margin: auto;
+      text-align: center;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .qtypara {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 27px;
+        color: #000000;
+        padding-top: 18px;
+      }
+    }
+    .subdiv {
+      .subheading {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        color: #000000;
+      }
+      .subpara {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        color: #000000;
+      }
+    }
+    .btndiv {
+      background: #ed6f6f;
+      border-radius: 10px;
+      width: 111px;
+      height: 43px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .confirmbtn {
+        border: none;
+        color: white;
+        background: #ed6f6f;
+      }
+    }
+  }
+}
